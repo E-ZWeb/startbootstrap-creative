@@ -1,0 +1,28 @@
+{
+  "name": "startbootstrap-creative",
+  "description": "MEME",
+  "main": "index.html",
+  "authors": [
+    "David Miller (http://davidmiller.io/)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "homepage": "https://github.com/E-ZWeb/startbootstrap-creative",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "hover": "^2.1.1"
+  }
+}
